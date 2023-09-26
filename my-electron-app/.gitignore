@@ -1,0 +1,3 @@
+# Ignore Node.js files
+node_modules/
+.env
